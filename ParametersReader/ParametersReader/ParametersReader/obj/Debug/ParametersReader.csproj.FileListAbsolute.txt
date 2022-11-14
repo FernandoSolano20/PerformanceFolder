@@ -1,0 +1,6 @@
+C:\Users\fersolano\Documents\Performance\ParametersReader\ParametersReader\ParametersReader\bin\Debug\ParametersReader.exe.config
+C:\Users\fersolano\Documents\Performance\ParametersReader\ParametersReader\ParametersReader\bin\Debug\ParametersReader.exe
+C:\Users\fersolano\Documents\Performance\ParametersReader\ParametersReader\ParametersReader\bin\Debug\ParametersReader.pdb
+C:\Users\fersolano\Documents\Performance\ParametersReader\ParametersReader\ParametersReader\obj\Debug\ParametersReader.csprojAssemblyReference.cache
+C:\Users\fersolano\Documents\Performance\ParametersReader\ParametersReader\ParametersReader\obj\Debug\ParametersReader.exe
+C:\Users\fersolano\Documents\Performance\ParametersReader\ParametersReader\ParametersReader\obj\Debug\ParametersReader.pdb

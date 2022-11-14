@@ -1,0 +1,1 @@
+document.querySelectorAll(".test-detail-cell.times.detail-toggle").forEach(x=>console.log(x.innerText.replace("ms","")))

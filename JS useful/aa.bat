@@ -1,0 +1,2 @@
+@For /F "UseBackQ Delims=" %%A In ("C:\Users\fersolano\Documents\Performance\Tickets\BDXPERF-1821\Stage\before\urls.txt"
+) Do @LightHouse "%%A" --emulatedFormFactor="desktop" --quiet --chrome-flags="--headless"

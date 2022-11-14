@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+</head>
+<body>
+<select id="levels">
+    <option value="Sasquatch V" data-level="50">Sasquatch V</option>
+    <option value="Picokosmos" data-level="20">Picokosmos</option>
+    <option value="Minicosmos" data-level="40">Minicosmos</option>
+    <option value="Sasquatch IV" data-level="50">Sasquatch IV</option>
+    <option value="David Hollands dh1" data-level="5">David Holland's dh1</option>
+    <option value="David Hollands dh2" data-level="5">David Holland's dh2</option>
+    <option value="Sasquatch III" data-level="5">Sasquatch III</option>
+    <option value="Microcosmos" data-level="5">Microcosmos</option>
+    <option value="Microban" data-level="5">Microban</option>
+    <option value="Mas Sasquatch" data-level="5">Mas Sasquatch</option>
+    <option value="Sokogen-990602" data-level="5">Sokogen-990602</option>
+    <option value="Yoshio Murase" data-level="5">Yoshio Murase</option>
+    <option value="Sasquatch" data-level="5">Sasquatch</option>
+</select>
+<input type="file" id="customGame">
+@RenderBody()
+<table id="table">
+    <tbody>
+
+    </tbody>
+</table>
+<script src="../../Scripts/JavaScript.js"></script>
+</body>
+</html>

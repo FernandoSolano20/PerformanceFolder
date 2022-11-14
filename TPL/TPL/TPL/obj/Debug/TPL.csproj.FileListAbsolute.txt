@@ -1,0 +1,6 @@
+C:\Users\fersolano\Documents\Performance\TPL\TPL\TPL\bin\Debug\TPL.exe.config
+C:\Users\fersolano\Documents\Performance\TPL\TPL\TPL\bin\Debug\TPL.exe
+C:\Users\fersolano\Documents\Performance\TPL\TPL\TPL\bin\Debug\TPL.pdb
+C:\Users\fersolano\Documents\Performance\TPL\TPL\TPL\obj\Debug\TPL.csprojAssemblyReference.cache
+C:\Users\fersolano\Documents\Performance\TPL\TPL\TPL\obj\Debug\TPL.exe
+C:\Users\fersolano\Documents\Performance\TPL\TPL\TPL\obj\Debug\TPL.pdb
